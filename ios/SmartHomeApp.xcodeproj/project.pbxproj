@@ -16,15 +16,15 @@
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2DCD954D1E0B4F2C00145EB5 /* SmartHomeAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* SmartHomeAppTests.m */; };
+		41D90E6A1E4B47D9B7B30292 /* Poppins-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 08A2E524E6DC4B2B868CEED3 /* Poppins-Italic.ttf */; };
+		45AE4A7E24424CBC81A2A09D /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B995DF4BDB544803A704BA11 /* Poppins-Bold.ttf */; };
+		49F08CF16A7249F6B3D95768 /* Poppins-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EDFAFAF5DD28411BACF78E65 /* Poppins-Black.ttf */; };
 		4E4B6C54CD937E96B5B490AA /* libPods-SmartHomeApp-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D3980CC3E9B982E94033C000 /* libPods-SmartHomeApp-tvOS.a */; };
+		5E0DD34F72CD4FEDA1AB7405 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 666B5AEE6C604B90B900B094 /* Poppins-Medium.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		8D647F043BE19ED479E7E5F7 /* libPods-SmartHomeApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 56C0C61344F9E349071717CC /* libPods-SmartHomeApp.a */; };
 		DAD8352BF1ADDAB60085FE58 /* libPods-SmartHomeApp-SmartHomeAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7D77FE0D34D445EFD693C803 /* libPods-SmartHomeApp-SmartHomeAppTests.a */; };
 		F86F0F9561F34823A4223C79 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3E14ADD4C0DB4485BDBB61F8 /* Poppins-Regular.ttf */; };
-		49F08CF16A7249F6B3D95768 /* Poppins-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EDFAFAF5DD28411BACF78E65 /* Poppins-Black.ttf */; };
-		45AE4A7E24424CBC81A2A09D /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B995DF4BDB544803A704BA11 /* Poppins-Bold.ttf */; };
-		41D90E6A1E4B47D9B7B30292 /* Poppins-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 08A2E524E6DC4B2B868CEED3 /* Poppins-Italic.ttf */; };
-		5E0DD34F72CD4FEDA1AB7405 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 666B5AEE6C604B90B900B094 /* Poppins-Medium.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,21 +49,27 @@
 		00E356EE1AD99517003FC87E /* SmartHomeAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SmartHomeAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* SmartHomeAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SmartHomeAppTests.m; sourceTree = "<group>"; };
+		08A2E524E6DC4B2B868CEED3 /* Poppins-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Italic.ttf"; path = "../assets/fonts/Poppins-Italic.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* SmartHomeApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SmartHomeApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = SmartHomeApp/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = SmartHomeApp/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = SmartHomeApp/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = SmartHomeApp/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = SmartHomeApp/main.m; sourceTree = "<group>"; };
+		22B158D1998643F1A34CA326 /* trebuc.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = trebuc.ttf; path = ../assets/fonts/trebuc.ttf; sourceTree = "<group>"; };
 		27569699EA862E61DCD13420 /* Pods-SmartHomeApp-SmartHomeAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SmartHomeApp-SmartHomeAppTests.debug.xcconfig"; path = "Target Support Files/Pods-SmartHomeApp-SmartHomeAppTests/Pods-SmartHomeApp-SmartHomeAppTests.debug.xcconfig"; sourceTree = "<group>"; };
 		277610E611E820A2FB61F7F1 /* Pods-SmartHomeApp-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SmartHomeApp-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-SmartHomeApp-tvOSTests/Pods-SmartHomeApp-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		2B611E8819FA45F8A757AEBC /* Trebuchet-MS.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Trebuchet-MS.ttf"; path = "../assets/fonts/Trebuchet-MS.ttf"; sourceTree = "<group>"; };
 		2D02E47B1E0B4A5D006451C7 /* SmartHomeApp-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SmartHomeApp-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* SmartHomeApp-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SmartHomeApp-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3E14ADD4C0DB4485BDBB61F8 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Regular.ttf"; path = "../assets/fonts/Poppins-Regular.ttf"; sourceTree = "<group>"; };
 		56C0C61344F9E349071717CC /* libPods-SmartHomeApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SmartHomeApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		666B5AEE6C604B90B900B094 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Medium.ttf"; path = "../assets/fonts/Poppins-Medium.ttf"; sourceTree = "<group>"; };
 		7D77FE0D34D445EFD693C803 /* libPods-SmartHomeApp-SmartHomeAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SmartHomeApp-SmartHomeAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = SmartHomeApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B116D6448CC14B67DFEE8BE8 /* Pods-SmartHomeApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SmartHomeApp.debug.xcconfig"; path = "Target Support Files/Pods-SmartHomeApp/Pods-SmartHomeApp.debug.xcconfig"; sourceTree = "<group>"; };
 		B28FE73D977E5768A825C054 /* Pods-SmartHomeApp-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SmartHomeApp-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-SmartHomeApp-tvOS/Pods-SmartHomeApp-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		B995DF4BDB544803A704BA11 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Bold.ttf"; path = "../assets/fonts/Poppins-Bold.ttf"; sourceTree = "<group>"; };
 		CF0ECFC4205F5CA83847790B /* libPods-SmartHomeApp-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SmartHomeApp-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3980CC3E9B982E94033C000 /* libPods-SmartHomeApp-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SmartHomeApp-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6EB76CA9671C44E201F6EF6 /* Pods-SmartHomeApp-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SmartHomeApp-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-SmartHomeApp-tvOSTests/Pods-SmartHomeApp-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -71,14 +77,8 @@
 		E37C134AE342FA7105A58C7F /* Pods-SmartHomeApp-SmartHomeAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SmartHomeApp-SmartHomeAppTests.release.xcconfig"; path = "Target Support Files/Pods-SmartHomeApp-SmartHomeAppTests/Pods-SmartHomeApp-SmartHomeAppTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
+		EDFAFAF5DD28411BACF78E65 /* Poppins-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Black.ttf"; path = "../assets/fonts/Poppins-Black.ttf"; sourceTree = "<group>"; };
 		FFC128D1359A9039EF002B8E /* Pods-SmartHomeApp-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SmartHomeApp-tvOS.release.xcconfig"; path = "Target Support Files/Pods-SmartHomeApp-tvOS/Pods-SmartHomeApp-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		3E14ADD4C0DB4485BDBB61F8 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; name = "Poppins-Regular.ttf"; path = "../assets/fonts/Poppins-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		22B158D1998643F1A34CA326 /* trebuc.ttf */ = {isa = PBXFileReference; name = "trebuc.ttf"; path = "../assets/fonts/trebuc.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		2B611E8819FA45F8A757AEBC /* Trebuchet-MS.ttf */ = {isa = PBXFileReference; name = "Trebuchet-MS.ttf"; path = "../assets/fonts/Trebuchet-MS.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		EDFAFAF5DD28411BACF78E65 /* Poppins-Black.ttf */ = {isa = PBXFileReference; name = "Poppins-Black.ttf"; path = "../assets/fonts/Poppins-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		B995DF4BDB544803A704BA11 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; name = "Poppins-Bold.ttf"; path = "../assets/fonts/Poppins-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		08A2E524E6DC4B2B868CEED3 /* Poppins-Italic.ttf */ = {isa = PBXFileReference; name = "Poppins-Italic.ttf"; path = "../assets/fonts/Poppins-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		666B5AEE6C604B90B900B094 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; name = "Poppins-Medium.ttf"; path = "../assets/fonts/Poppins-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +148,21 @@
 			name = SmartHomeApp;
 			sourceTree = "<group>";
 		};
+		26F9ADCE55D640F6BE4A24EB /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				3E14ADD4C0DB4485BDBB61F8 /* Poppins-Regular.ttf */,
+				22B158D1998643F1A34CA326 /* trebuc.ttf */,
+				2B611E8819FA45F8A757AEBC /* Trebuchet-MS.ttf */,
+				EDFAFAF5DD28411BACF78E65 /* Poppins-Black.ttf */,
+				B995DF4BDB544803A704BA11 /* Poppins-Bold.ttf */,
+				08A2E524E6DC4B2B868CEED3 /* Poppins-Italic.ttf */,
+				666B5AEE6C604B90B900B094 /* Poppins-Medium.ttf */,
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -210,21 +225,6 @@
 			);
 			name = Products;
 			sourceTree = "<group>";
-		};
-		26F9ADCE55D640F6BE4A24EB /* Resources */ = {
-			isa = "PBXGroup";
-			children = (
-				3E14ADD4C0DB4485BDBB61F8 /* Poppins-Regular.ttf */,
-				22B158D1998643F1A34CA326 /* trebuc.ttf */,
-				2B611E8819FA45F8A757AEBC /* Trebuchet-MS.ttf */,
-				EDFAFAF5DD28411BACF78E65 /* Poppins-Black.ttf */,
-				B995DF4BDB544803A704BA11 /* Poppins-Bold.ttf */,
-				08A2E524E6DC4B2B868CEED3 /* Poppins-Italic.ttf */,
-				666B5AEE6C604B90B900B094 /* Poppins-Medium.ttf */,
-			);
-			name = Resources;
-			sourceTree = "<group>";
-			path = "";
 		};
 /* End PBXGroup section */
 
@@ -371,8 +371,6 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				F86F0F9561F34823A4223C79 /* Poppins-Regular.ttf in Resources */,
-				5C6883B4CE5C4B55860FA458 /* trebuc.ttf in Resources */,
-				669DE28912864803812C8458 /* Trebuchet-MS.ttf in Resources */,
 				49F08CF16A7249F6B3D95768 /* Poppins-Black.ttf in Resources */,
 				45AE4A7E24424CBC81A2A09D /* Poppins-Bold.ttf in Resources */,
 				41D90E6A1E4B47D9B7B30292 /* Poppins-Italic.ttf in Resources */,
@@ -455,10 +453,42 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-SmartHomeApp-SmartHomeAppTests/Pods-SmartHomeApp-SmartHomeAppTests-resources.sh",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Feather.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Foundation.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Octicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Zocial.ttf",
 				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AntDesign.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Entypo.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EvilIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Feather.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Brands.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Regular.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Solid.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Fontisto.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Foundation.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Ionicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialCommunityIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Octicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/SimpleLineIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Zocial.ttf",
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AccessibilityResources.bundle",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -495,10 +525,42 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-SmartHomeApp/Pods-SmartHomeApp-resources.sh",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Feather.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Foundation.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Octicons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf",
+				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Zocial.ttf",
 				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AntDesign.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Entypo.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/EvilIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Feather.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Brands.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Regular.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/FontAwesome5_Solid.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Fontisto.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Foundation.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Ionicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialCommunityIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MaterialIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Octicons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/SimpleLineIcons.ttf",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/Zocial.ttf",
 				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AccessibilityResources.bundle",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
